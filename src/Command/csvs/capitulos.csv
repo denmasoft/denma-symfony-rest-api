@@ -1,0 +1,99 @@
+﻿Clave del Capitulo;Nombre capitulo;Fecha Inicio de Vigencia;Fecha Fin de Vigencia;Estatus activo
+01;Animales vivos;1/11/11;NULL;SI
+02;Carne y despojos comestibles;1/11/11;NULL;SI
+03;Pescados y crustáceos, moluscos y demás invertebrados acuáticos;1/11/11;NULL;SI
+04;"Leche y productos lácteos; huevos de ave; miel natural; productos comestibles de origen animal, no expresados ni comprendidos en otra parte";1/11/11;NULL;SI
+05;Los demás productos de origen animal no expresados ni comprendidos en otra parte;1/11/11;NULL;SI
+06;Plantas vivas y productos de la floricultura;1/11/11;NULL;SI
+07;Hortalizas, plantas, raíces y tubérculos alimenticios;1/11/11;NULL;SI
+08;"Frutas y frutos comestibles; cortezas de agrios (cítricos), melones o sandías";1/11/11;NULL;SI
+09;Café, té, yerba mate y especias;1/11/11;NULL;SI
+10;Cereales;1/11/11;NULL;SI
+11;"Productos de la molinería; malta; almidón y fécula; inulina; gluten de trigo";1/11/11;NULL;SI
+12;"Semillas y frutos oleaginosos; semillas y frutos diversos; plantas industriales o medicinales; paja y forraje";1/11/11;NULL;SI
+13;Gomas, resinas y demás jugos y extractos vegetales;1/11/11;NULL;SI
+14;Materias trenzables y demás productos de origen vegetal, no expresados ni comprendidos en otra parte;1/11/11;NULL;SI
+15;"Grasas y aceites animales o vegetales; productos de su desdoblamiento; grasas alimenticias elaboradas; ceras de origen animal o vegetal";1/11/11;NULL;SI
+16;Preparaciones de carne, pescado o de crustáceos, moluscos o demás invertebrados acuáticos;1/11/11;NULL;SI
+17;Azúcares y artículos de confitería;1/11/11;NULL;SI
+18;Cacao y sus preparaciones;1/11/11;NULL;SI
+19;"Preparaciones a base de cereales, harina, almidón, fécula o leche; productos de pastelería";1/11/11;NULL;SI
+20;Preparaciones de hortalizas, frutas u otros frutos o demás partes de plantas;1/11/11;NULL;SI
+21;Preparaciones alimenticias diversas;1/11/11;NULL;SI
+22;Bebidas, líquidos alcohólicos y vinagre;1/11/11;NULL;SI
+23;"Residuos y desperdicios de las industrias alimentarias; alimentos preparados para animales";1/11/11;NULL;SI
+24;Tabaco y sucedáneos del tabaco elaborados;1/11/11;NULL;SI
+25;"Sal; azufre; tierras y piedras; yesos, cales y cementos";1/11/11;NULL;SI
+26;Minerales metalíferos, escorias y cenizas;1/11/11;NULL;SI
+27;"Combustibles minerales, aceites minerales y productos de su destilación; materias bituminosas; ceras minerales";1/11/11;NULL;SI
+28;"Productos químicos inorgánicos; compuestos inorgánicos u orgánicos de metal precioso, de elementos radiactivos, de metales de las tierras raras o de isótopos";1/11/11;NULL;SI
+29;Productos químicos orgánicos;1/11/11;NULL;SI
+30;Productos farmacéuticos;1/11/11;NULL;SI
+31;Abonos;1/11/11;NULL;SI
+32;"Extractos curtientes o tintóreos; taninos y sus derivados; pigmentos y demás materias colorantes; pinturas y barnices; mástiques; tintas";1/11/11;NULL;SI
+33;"Aceites esenciales y resinoides; preparaciones de perfumería, de tocador o de cosmética";1/11/11;NULL;SI
+34;Jabón, agentes de superficie orgánicos, preparaciones para lavar, preparaciones lubricantes, ceras artificiales, ceras preparadas, productos de limpieza, velas y artículos similares, pastas para modelar, “ceras para odontología” y preparaciones para odont;1/11/11;NULL;SI
+35;"Materias albuminoideas; productos a base de almidón o de fécula modificados; colas; enzimas";1/11/11;NULL;SI
+36;"Pólvora y explosivos; artículos de pirotecnia; fósforos (cerillas); aleaciones pirofóricas; materias inflamables";1/11/11;NULL;SI
+37;Productos fotográficos o cinematográficos;1/11/11;NULL;SI
+38;Productos diversos de las industrias químicas;1/11/11;NULL;SI
+39;Plástico y sus manufacturas;1/11/11;NULL;SI
+40;Caucho y sus manufacturas;1/11/11;NULL;SI
+41;Pieles (excepto la peletería) y cueros;1/11/11;NULL;SI
+42;"Manufacturas de cuero; artículos de talabartería o guarnicionería; artículos de viaje, bolsos de mano (carteras) y continentes similares; manufacturas de tripa";1/11/11;NULL;SI
+43;"Peletería y confecciones de peletería; peletería facticia o artificial";1/11/11;NULL;SI
+44;Madera, carbón vegetal y manufacturas de madera;1/11/11;NULL;SI
+45;Corcho y sus manufacturas;1/11/11;NULL;SI
+46;Manufacturas de espartería o cestería;1/11/11;NULL;SI
+47;"Pasta de madera o de las demás materias fibrosas celulósicas; papel o cartón para reciclar (desperdicios y desechos)";1/11/11;NULL;SI
+48;"Papel y cartón; manufacturas de pasta de celulosa, de papel o cartón";1/11/11;NULL;SI
+49;"Productos editoriales, de la prensa y de las demás industrias gráficas; textos manuscritos o mecanografiados y planos";1/11/11;NULL;SI
+50;Seda;1/11/11;NULL;SI
+51;"Lana y pelo fino u ordinario; hilados y tejidos de crin";1/11/11;NULL;SI
+52;Algodón;1/11/11;NULL;SI
+53;"Las demás fibras textiles vegetales; hilados de papel y tejidos de hilados de papel";1/11/11;NULL;SI
+54;"Filamentos sintéticos o artificiales; tiras y formas similares de materia textil sintética o artificial";1/11/11;NULL;SI
+55;Fibras sintéticas o artificiales discontinuas;1/11/11;NULL;SI
+56;"Guata, fieltro y tela sin tejer; hilados especiales; cordeles, cuerdas y cordajes; artículos de cordelería.";1/11/11;NULL;SI
+57;Alfombras y demás revestimientos para el suelo, de materia textil;1/11/11;NULL;SI
+58;"Tejidos especiales; superficies textiles con mechón insertado; encajes; tapicería; pasamanería; bordados";1/11/11;NULL;SI
+59;"Telas impregnadas, recubiertas, revestidas o estratificadas; artículos técnicos de materia textil";1/11/11;NULL;SI
+60;Tejidos de punto;1/11/11;NULL;SI
+61;Prendas y complementos (accesorios), de vestir, de punto;1/11/11;NULL;SI
+62;Prendas y complementos (accesorios), de vestir, excepto los de punto;1/11/11;NULL;SI
+63;"Los demás artículos textiles confeccionados; juegos; prendería y trapos";1/11/11;NULL;SI
+64;"Calzado, polainas y artículos análogos; partes de estos artículos";1/11/11;NULL;SI
+65;Sombreros, demás tocados, y sus partes;1/11/11;NULL;SI
+66;Paraguas, sombrillas, quitasoles, bastones, bastones asiento, látigos, fustas, y sus partes;1/11/11;NULL;SI
+67;"Plumas y plumón preparados y artículos de plumas o plumón; flores artificiales; manufacturas de cabello";1/11/11;NULL;SI
+68;Manufacturas de piedra, yeso fraguable, cemento, amianto (asbesto), mica o materias análogas;1/11/11;NULL;SI
+69;Productos cerámicos;1/11/11;NULL;SI
+70;Vidrio y sus manufacturas;1/11/11;NULL;SI
+71;"Perlas naturales o cultivadas, piedras preciosas o semipreciosas, metales preciosos, chapados de metal precioso (plaqué) y manufacturas de estas materias; bisutería; monedas";1/11/11;NULL;SI
+72;Fundición, hierro y acero;1/11/11;NULL;SI
+73;Manufacturas de fundición, hierro o acero;1/11/11;NULL;SI
+74;Cobre y sus manufacturas;1/11/11;NULL;SI
+75;Níquel y sus manufacturas;1/11/11;NULL;SI
+76;Aluminio y sus manufacturas;1/11/11;NULL;SI
+77;(Reservado para una futura utilización en el Sistema Armonizado);1/11/11;NULL;SI
+78;Plomo y sus manufacturas;1/11/11;NULL;SI
+79;Cinc y sus manufacturas;1/11/11;NULL;SI
+80;Estaño y sus manufacturas;1/11/11;NULL;SI
+81;"Los demás metales comunes; cermets; manufacturas de estas materias";1/11/11;NULL;SI
+82;"Herramientas y útiles, artículos de cuchillería y cubiertos de mesa, de metal común; partes de estos artículos, de metal común";1/11/11;NULL;SI
+83;Manufacturas diversas de metal común;1/11/11;NULL;SI
+84;"Reactores nucleares, calderas, máquinas, aparatos y artefactos mecánicos; partes de estas máquinas o aparatos";1/11/11;NULL;SI
+85;"Máquinas, aparatos y material eléctrico, y sus partes; aparatos de grabación o reproducción de sonido, aparatos de grabación o reproducción de imagen y sonido en televisión, y las partes y accesorios de estos aparatos";1/11/11;NULL;SI
+86;"Vehículos y material para vías férreas o similares, y sus partes; aparatos mecánicos (incluso electromecánicos) de señalización para vías de comunicación";1/11/11;NULL;SI
+87;"Vehículos automóviles, tractores, velocípedos y demás vehículos terrestres; sus partes y accesorios";1/11/11;NULL;SI
+88;Aeronaves, vehículos espaciales, y sus partes;1/11/11;NULL;SI
+89;Barcos y demás artefactos flotantes;1/11/11;NULL;SI
+90;"Instrumentos y aparatos de óptica, fotografía o cinematografía, de medida, control o precisión; instrumentos y aparatos medicoquirúrgicos; partes y accesorios de estos instrumentos o aparatos";1/11/11;NULL;SI
+91;Aparatos de relojería y sus partes;1/11/11;NULL;SI
+92;"Instrumentos musicales; sus partes y accesorios";1/11/11;NULL;SI
+93;Armas, municiones, y sus partes y accesorios;1/11/11;NULL;SI
+94;"Muebles; mobiliario medicoquirúrgico; artículos de cama y similares; aparatos de alumbrado no expresados ni comprendidos en otra parte; anuncios, letreros y placas indicadoras, luminosos y artículos similares; construcciones prefabricadas";1/11/11;NULL;SI
+95;"Juguetes, juegos y artículos para recreo o deporte; sus partes y accesorios";1/11/11;NULL;SI
+96;Manufacturas diversas;1/11/11;NULL;SI
+97;Objetos de arte o colección y antigüedades;1/11/11;NULL;SI
+98;Operaciones especiales;1/11/11;NULL;SI
